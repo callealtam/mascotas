@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title></title>
+</head>
+<body>
+	<form class="form">
+		<div class=""form_container>
+			<h2 class="form_container">contacto</h2>
+			<input type="text" class="forma_input" placeholder="nombre">
+			<input type="Correo" class="form_input" placeholder="Correo">
+			<textarea class="form_input form_input--mensaje" placeholder="Mensaje"></textarea>
+
+			<input type="submit" value="enviar" class="form_cta" >
+
+		</div>
+	</form>	
+</body>
+</html>
